@@ -1,0 +1,13 @@
+target,zone_key,display_label,domain,n_pixels,domain_n_pixels,extreme_n,domain_extreme_n,extreme_density,domain_extreme_share,sample_share,npf_dB_transition_km,pf_dB_transition_km,pf_transition_dA_impact_km,pf_interior_dA_impact_km,row_dB_transition_km,row_dA_impact_km,threshold_source
+d_u,npf_transition,NPF transition,npf,4874,20003,377,625,0.07734919983586376,0.6032,0.24366345048242763,3.25,3.25,4.25,2.75,3.25,,piecewise_profile_fit
+d_u,npf_interior,NPF interior,npf,15129,20003,248,625,0.016392359045541673,0.3968,0.7563365495175723,3.25,3.25,4.25,2.75,3.25,,piecewise_profile_fit
+d_u,pf_transition_thermokarst_feature_impacted,PF transition + thermokarst-feature impacted,pf,2795,19988,99,790,0.035420393559928445,0.12531645569620253,0.13983390034020413,3.25,3.25,4.25,2.75,3.25,4.25,piecewise_profile_fit
+d_u,pf_transition_background,PF transition background,pf,3374,19988,21,790,0.006224066390041493,0.026582278481012658,0.16880128076846107,3.25,3.25,4.25,2.75,3.25,4.25,piecewise_profile_fit
+d_u,pf_interior_thermokarst_feature_impacted,PF interior + thermokarst-feature impacted,pf,6713,19988,488,790,0.07269477133919261,0.6177215189873417,0.3358515109065439,3.25,3.25,4.25,2.75,3.25,2.75,piecewise_profile_fit
+d_u,pf_interior_background,PF interior background,pf,7106,19988,182,790,0.025612158739093723,0.23037974683544304,0.35551330798479086,3.25,3.25,4.25,2.75,3.25,2.75,piecewise_profile_fit
+grad_mag_km,npf_transition,NPF transition,npf,5684,20003,481,725,0.08462350457424349,0.663448275862069,0.284157376393541,4.25,1.75,5.25,9.25,4.25,,piecewise_profile_fit
+grad_mag_km,npf_interior,NPF interior,npf,14319,20003,244,725,0.017040296110063552,0.33655172413793105,0.715842623606459,4.25,1.75,5.25,9.25,4.25,,piecewise_profile_fit
+grad_mag_km,pf_transition_thermokarst_feature_impacted,PF transition + thermokarst-feature impacted,pf,1971,19988,80,843,0.04058853373921867,0.09489916963226572,0.09860916549929959,4.25,1.75,5.25,9.25,1.75,5.25,piecewise_profile_fit
+grad_mag_km,pf_transition_background,PF transition background,pf,2090,19988,49,843,0.023444976076555026,0.05812574139976275,0.10456273764258556,4.25,1.75,5.25,9.25,1.75,5.25,piecewise_profile_fit
+grad_mag_km,pf_interior_thermokarst_feature_impacted,PF interior + thermokarst-feature impacted,pf,13421,19988,627,843,0.04671783026600104,0.7437722419928826,0.6714528717230338,4.25,1.75,5.25,9.25,1.75,9.25,piecewise_profile_fit
+grad_mag_km,pf_interior_background,PF interior background,pf,2506,19988,87,843,0.03471667996807662,0.10320284697508897,0.12537522513508104,4.25,1.75,5.25,9.25,1.75,9.25,piecewise_profile_fit

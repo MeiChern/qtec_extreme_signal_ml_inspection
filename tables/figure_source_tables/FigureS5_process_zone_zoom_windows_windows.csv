@@ -1,0 +1,6 @@
+window_key,window_label,center_easting_m,center_northing_m,window_size_km,n_points,n_hotspots,mean_score,wayback_tile,wayback_cover_frac,source_bounds_lonlat
+transition,PF-NPF transition,-1657660.2294761506,3582465.4954141835,31.9,22,1,0.5444129684242424,20221102_TsonagLake_Northeast_Suspicious_Region.tpkx,1.0,"91.8755700,32.1899722,92.1697587,32.4398678"
+near_tl,"Thermokarst-lake
+proximal",-1510884.5362193268,3866920.051055893,12.0,13,8,3.026388911025641,20221102_Fenghuoshan_North_Suspicious_Region.tpkx,1.0,"93.0071149,34.9637935,93.1163194,35.0865216"
+near_rts,Thaw slumps,-1541486.0,3878194.0,7.0,10,3,1.7708420203333333,Wayback_Wudaoliang_West_RTS_20221102.tpkx,0.9982755179595805,
+interior,Interior non-prox.,-1538836.6792455767,3836927.441429951,5.0,0,0,,20221102_Fenghuoshan_North_Suspicious_Region.tpkx,1.0,"92.7895518,34.6955887,92.8347173,34.7468273"

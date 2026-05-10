@@ -1,0 +1,44 @@
+{
+  "name": "du_2015_2021_mm_yr",
+  "description": "Vertical deformation rate d_u from Sentinel-1 ascending/descending InSAR decomposition over the QTEC analysis grid.",
+  "units": "mm/yr",
+  "analysis_window": "2015-2021",
+  "sign_convention": "negative values indicate subsidence",
+  "source_memmap": "outputs/grad_rasters/du_f32.memmap",
+  "source_grid_meta": "outputs/grad_rasters/grid_meta.npz",
+  "crs_source": "human_features/qtec_railway_clip.prj",
+  "crs_wkt": "PROJCS[\"Krasovsky_1940_Albers\",GEOGCS[\"GCS_Krasovsky_1940\",DATUM[\"D_Krasovsky_1940\",SPHEROID[\"Krasovsky_1940\",6378245.0,298.3]],PRIMEM[\"Greenwich\",0.0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Albers\"],PARAMETER[\"False_Easting\",0.0],PARAMETER[\"False_Northing\",0.0],PARAMETER[\"Central_Meridian\",110.0],PARAMETER[\"Standard_Parallel_1\",25.0],PARAMETER[\"Standard_Parallel_2\",47.0],PARAMETER[\"Latitude_Of_Origin\",0.0],UNIT[\"Meter\",1.0]]",
+  "grid_meta": {
+    "res": 136.0,
+    "nrows": 7464,
+    "ncols": 5199,
+    "gx0": -14007,
+    "gy1": 30570,
+    "min_e": -1904952.0,
+    "max_n": 4157520.0,
+    "transform": [
+      136.0,
+      0.0,
+      -1905020.0,
+      0.0,
+      -136.0,
+      4157588.0
+    ],
+    "cell_center_rule": "easting=(gx0+col)*res; northing=(gy1-row)*res"
+  },
+  "nodata": -9999.0,
+  "stats": {
+    "valid_pixel_count": 11317021,
+    "min": -163.03033447265625,
+    "max": 39.85368347167969,
+    "mean": -2.5768375396728516,
+    "quantiles": {
+      "1": -19.16946792602539,
+      "5": -12.918705940246582,
+      "50": -1.3989499807357788,
+      "95": 3.377805471420288,
+      "99": 6.608166694641113
+    }
+  },
+  "created_utc": "2026-05-10T19:17:10.455916+00:00"
+}

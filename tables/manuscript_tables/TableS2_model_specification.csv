@@ -1,0 +1,7 @@
+Component,Specification
+Main learner,ExtraTrees classifier
+Preprocessing,Median imputation; no standardization or PCA
+Spatial validation,100 km spatial blocks with grouped train/test splits
+Class imbalance,Class weights or positive-class weighting in supported learners
+Interpretation,"15-repeat component grouped permutation importance on held-out spatial blocks; raw and spatial-contrast components interpreted as diagnostics, not causal effects"
+Auxiliary checks,Separate ExtraTrees calibration and pooled-baseline checks summarized in Table S5

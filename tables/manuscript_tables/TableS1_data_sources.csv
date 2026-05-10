@@ -1,0 +1,14 @@
+Variable or layer,Source,Native resolution,Reference_or_link
+"d_u, deformation-gradient magnitude",Sentinel-1 TS-InSAR,approximately 120 m,This package provides only d_u; see manuscript refs. 56-60 and SI refs. 1-4.
+"DEM, slope, TWI",Copernicus GLO-30 DEM,30 m,https://doi.org/10.5270/ESA-c5d3d65
+NDVI,TPDC vegetation index data of Qinghai Tibet Plateau,250 m,https://doi.org/10.11888/Ecolo.tpdc.270449
+GPP,30-m gross primary production dataset from 2016 to 2020 in China,30 m,https://doi.org/10.1038/s41597-024-03893-x
+MAGT,TPDC MAGT and permafrost thermal stability dataset,1 km,https://doi.org/10.11888/Geogra.tpdc.270672
+"MAAT, precipitation",TPDC ANUSPLIN gridded meteorology,1 km,https://doi.org/10.11888/Meteoro.tpdc.270239
+"Direct radiation, diffuse radiation",Topographic radiation derivatives,analysis grid,Derived in this study from DEM/terrain context.
+"Bulk density, SOC, coarse fragments, soil thickness",TPDC digital soil mapping products,100 m to 1 km,https://doi.org/10.11888/Terre.tpdc.272482
+VWC35 / ground-ice context,TPDC ML-based ground-ice product,1 km,Main-text ref. 53: https://doi.org/10.1002/ppp.2226
+Permafrost distribution,TTOP permafrost map,1 km,Main-text ref. 28: https://doi.org/10.5194/tc-11-2527-2017
+Thermokarst lake inventory,Sentinel-2 classification and manual vectorization,polygon,Main-text ref. 30: https://doi.org/10.1029/2021EA001950
+Retrogressive thaw slump inventory,Visual interpretation inventory,polygon,Main-text ref. 31: https://doi.org/10.5194/essd-14-3875-2022
+Large-lake inventory,TPDC lake dataset v3.1,polygon,SI ref. 12: https://doi.org/10.1016/j.scib.2019.07.018

@@ -1,0 +1,107 @@
+{
+  "bulk_density": {
+    "display_p02": 1036.018271484375,
+    "display_p98": 1392.9257495117188,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Bulk density (kg m$^{-3}$)"
+  },
+  "cf": {
+    "display_p02": 7.919644927978515,
+    "display_p98": 41.44960700988769,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Coarse fragments (vol.%)"
+  },
+  "dem": {
+    "display_p02": 2683.0,
+    "display_p98": 5417.0,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Elevation (m a.s.l.)"
+  },
+  "difpr": {
+    "display_p02": 0.4201082307100296,
+    "display_p98": 0.5784581899642944,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Diffuse radiation (W m$^{-2}$)"
+  },
+  "dirpr": {
+    "display_p02": 1.6724871015548706,
+    "display_p98": 4.104492120742798,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Direct radiation (W m$^{-2}$)"
+  },
+  "gpp_mean": {
+    "display_p02": 15.0,
+    "display_p98": 6201.0,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "GPP (gC m$^{-2}$ yr$^{-1}$)"
+  },
+  "magt": {
+    "display_p02": -2.7214614963531494,
+    "display_p98": 3.238340106010436,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "MAGT (\u00b0C)"
+  },
+  "ndvi": {
+    "display_p02": 0.04974460355937481,
+    "display_p98": 0.7004698026180267,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "NDVI (-)"
+  },
+  "precipitation_mean": {
+    "display_p02": 45.36130267333985,
+    "display_p98": 634.8414755859375,
+    "offset": 0.0,
+    "scale": 0.1,
+    "title": "Precipitation (mm yr$^{-1}$)"
+  },
+  "slope": {
+    "display_p02": 0.00013470339915680135,
+    "display_p98": 21.0605436543888,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Slope (\u00b0)"
+  },
+  "soc": {
+    "display_p02": 192.09942016601562,
+    "display_p98": 3092.5329248046874,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Soil organic carbon (kg m$^{-2}$)"
+  },
+  "soil_thickness": {
+    "display_p02": 18.0,
+    "display_p98": 94.36999999999534,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "Soil thickness (m)"
+  },
+  "temperature_mean": {
+    "display_p02": -7.488888549804688,
+    "display_p98": 6.900148193359375,
+    "offset": 0.0,
+    "scale": 0.1,
+    "title": "MAAT (\u00b0C)"
+  },
+  "twi": {
+    "display_p02": 7.513078012466431,
+    "display_p98": 23.82617000579834,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "TWI (-)"
+  },
+  "vwc35": {
+    "display_p02": 6.49684796333313,
+    "display_p98": 40.670485763549806,
+    "offset": 0.0,
+    "scale": 1.0,
+    "title": "VWC35 (%)"
+  }
+}
